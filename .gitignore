@@ -1,4 +1,9 @@
+### Netlify ###
 
+# Directory for publishing the public site
+/pub
+
+# ------------------------------------------------------------------------------
 # Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows
 
