@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://areweffiyet.com/*"
+  to = "https://ffi.rs/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.areweffiyet.com/*"
+  to = "https://ffi.rs/:splat"
+  status = 301
+  force = true
