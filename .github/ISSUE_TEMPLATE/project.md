@@ -29,6 +29,11 @@ For which language(s) does this project improve FFI?
 - [github.com/your/project](https://github.com/your/project)
 - [crates.io/crates/your-project](crates.io/crates/your-project)
 
+<!--
+List usernames or links for the main people responsible for this project.
+-->
+**Maintainers:** @bors, @nvzqz
+
 ## Status
 
 <!--
