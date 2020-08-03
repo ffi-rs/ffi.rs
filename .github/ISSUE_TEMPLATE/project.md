@@ -40,4 +40,7 @@ List usernames or links for the main people responsible for this project.
 How far along is this project? What has it accomplished? What help is needed?
 
 This info will be used to determine where in the site the project should go.
+
+If the project is a crate, please add its badge before any writing:
+[![crates.io](https://img.shields.io/crates/v/your-project.svg)](https://crates.io/crates/your-project)
 -->
