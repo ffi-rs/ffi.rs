@@ -28,6 +28,7 @@ For which language(s) does this project improve FFI?
 - [example.com/your-project](https://example.com/your-project)
 - [github.com/your/project](https://github.com/your/project)
 - [crates.io/crates/your-project](https://crates.io/crates/your-project)
+- [docs.rs/your-project](https://docs.rs/crates/your-project)
 
 <!--
 List usernames or links for the main people responsible for this project.
