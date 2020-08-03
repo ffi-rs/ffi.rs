@@ -17,14 +17,17 @@ what your suggested project brings to Rust FFI. Be clear and concise.
 
 **Name:** YourProject
 
-**Site:** [example.com/your-project](https://example.com/your-project)
-
 <!--
 For which language(s) does this project improve FFI?
 -->
-**Language(s):** [AAAAAAAAAAAAAA!!!!](https://esolangs.org/wiki/AAAAAAAAAAAAAA!!!!)
+**Languages:** [AAAAAAAAAAAAAA!!!!](https://esolangs.org/wiki/AAAAAAAAAAAAAA!!!!)
 
 **Description:** YourProject enables...
+
+**Sites:**
+- [example.com/your-project](https://example.com/your-project)
+- [github.com/your/project](https://github.com/your/project)
+- [crates.io/crates/your-project](crates.io/crates/your-project)
 
 ## Status
 
